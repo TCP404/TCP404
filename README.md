@@ -28,8 +28,13 @@ Hi 👋！(。・∀・)ノ这里是我的GitHub个人主页。
 
 * 干饭也不行，摸鱼第一名🐟
 
-只会写简单的代码和一些好玩的小东西😂
-​
+喜欢钻研底层技术、记录博客、参与翻译，乐于将 Idea 实现出来
+
+Todo Project
+- [x] oneTiny: 局域网文件服务器
+- [x] oneWEB: 1+N 插件式 WEB 开发框架 
+- [ ] oneDB: 用 Go 实现的 SQLite
+- [ ] oneEdit: markdown 编辑器 + 图床管理 + 一键部署托管平台
 
 经常玩的玩具
 
