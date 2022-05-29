@@ -32,10 +32,12 @@ Hi 👋！(。・∀・)ノ这里是我的GitHub个人主页。
 
 - Todo Project
   - [x] **oneTiny**: 局域网文件服务器
+      - **[基础版](https://github.com/TCP404/OneTiny-base)**: 具备基础的文件传输能力
+      - **[完整版](https://github.com/TCP404/OneTiny)**: 具备基础的文件传输能力、局域网防监听、可配置
   - [x] **oneWEB**: 1+N 插件式 WEB 开发框架 
   - [ ] **oneDB**: 用 Go 实现的 SQLite
-  - [x] **eLog**: 一个 Golang 分级日志库
-  - [x] **eUtil**: 一个 Golang 常用工具函数集合
+  - [x] **[eLog](https://github.com/TCP404/elog)**: 一个 Golang 分级日志库
+  - [x] **[eUtil](https://github.com/TCP404/eutil)**: 一个 Golang 常用工具函数集合
 
 - 经常玩的玩具
 
