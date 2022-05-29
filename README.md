@@ -34,17 +34,21 @@ Hi 👋！(。・∀・)ノ这里是我的GitHub个人主页。
   - [x] **oneTiny**: 局域网文件服务器
   - [x] **oneWEB**: 1+N 插件式 WEB 开发框架 
   - [ ] **oneDB**: 用 Go 实现的 SQLite
-  - [ ] **oneEdit**: markdown 编辑器 + 图床管理 + 一键部署托管平台
+  - [x] **eLog**: 一个 Golang 分级日志库
+  - [x] **eUtil**: 一个 Golang 常用工具函数集合
 
 - 经常玩的玩具
 
 ![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&logoColor=fff)
 ![](https://img.shields.io/badge/-Clang-00599C?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
-<!-- ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff) -->
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff) 
 
 
-<!-- ![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=mzdluo123.mzdluo123.readme) -->
+<!-- ![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=TCP404.TCP404.readme) -->
+
+---
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/MHuiG/MHuiG/output/github-contribution-grid-snake.svg)
